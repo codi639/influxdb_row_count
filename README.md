@@ -1,6 +1,6 @@
-# InfluxDB Auditor - The Ultimate Auditor Tool
+# InfluxDB Swiss Knife - The Ultimate Tool
 
-Welcome to the **InfluxDB V1 Auditor**! 🕵️‍♂️ Whether you’re on a quest to count rows, create databases and users, or fill them with dummy data, this tool’s got your back. Think of it as your trusty sidekick in the wild world of data adventures!
+Welcome to the **InfluxDB V1 Tool**! 🕵️‍♂️ Whether you’re on a quest to count rows, create databases and users, or fill them with dummy data, this tool’s got your back. Think of it as your trusty sidekick in the wild world of data adventures!
 
 ## Prerequisites
 
